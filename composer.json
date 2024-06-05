@@ -1,0 +1,6 @@
+{
+    "require": {
+        "kavenegar/php": "^1.2",
+        "phpoffice/phpspreadsheet": "^2.0"
+    }
+}
